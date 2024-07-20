@@ -187,3 +187,115 @@ http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=3b0868c3
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视备用",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画
+http://115.60.241.249:2000/rtp/225.1.4.48:1077
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://115.60.241.249:2000/rtp/225.1.4.49:1078
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+http://115.60.241.249:2000/rtp/225.1.4.92:1121
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育-1高清
+http://115.60.241.249:2000/rtp/225.1.4.173:1712
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育-4
+http://115.60.241.249:2000/rtp/225.1.4.171:1710
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://115.60.241.249:2000/rtp/225.1.4.95:1124
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实高清
+http://115.60.241.249:2000/rtp/225.1.4.172:1711
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://115.60.241.249:2000/rtp/225.1.4.97:1126
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育-2
+http://115.60.241.249:2000/rtp/225.1.4.165:1206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上-4k
+http://115.60.241.249:2000/rtp/225.1.4.162:1204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育
+http://115.60.241.249:2000/rtp/225.1.4.164:1205
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
+http://115.60.241.249:2000/rtp/225.1.4.234:1280
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视高清
+http://115.60.241.249:2000/rtp/225.1.4.195:1310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健康中原
+http://115.60.241.249:2000/rtp/225.1.5.48:1358
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中华特产
+http://115.60.241.249:2000/rtp/225.1.5.19:1330
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
+http://115.60.241.249:2000/rtp/225.1.4.209:1262
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
+http://115.60.241.249:2000/rtp/225.1.4.208:1261
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+http://115.60.241.249:2000/rtp/225.1.4.207:1260
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乒羽频道
+http://115.60.241.249:2000/rtp/225.1.4.210:1263
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫
+http://115.60.241.249:2000/rtp/225.1.4.212:1265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐现场
+http://115.60.241.249:2000/rtp/225.1.4.184:1224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活
+http://115.60.241.249:2000/rtp/225.1.4.176:1http://58.63.64.146:8888/rtp/225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好学生
+http://115.60.241.249:2000/rtp/225.1.4.177:1226
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
+http://115.60.241.249:2000/rtp/225.1.4.178:1227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",早教
+http://115.60.241.249:2000/rtp/225.1.4.179:1228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高网
+http://115.60.241.249:2000/rtp/225.1.4.180:1229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事
+http://115.60.241.249:2000/rtp/225.1.4.181:1230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美妆
+http://115.60.241.249:2000/rtp/225.1.4.182:1231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理
+http://115.60.241.249:2000/rtp/225.1.4.183:1232
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典电影
+http://115.60.241.249:2000/rtp/225.1.4.175:1233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精选
+http://115.60.241.249:2000/rtp/225.1.4.253:1299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球
+http://115.60.241.249:2000/rtp/225.1.4.200:1250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV谍战剧场
+http://115.60.241.249:2000/rtp/225.1.4.185:1240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV相声小品
+http://115.60.241.249:2000/rtp/225.1.4.186:1235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV野外
+http://115.60.241.249:2000/rtp/225.1.4.187:1236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV法治
+http://115.60.241.249:2000/rtp/225.1.4.188:1237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",少儿动画
+http://115.60.241.249:2000/rtp/225.1.4.189:1238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热播剧场
+http://115.60.241.249:2000/rtp/225.1.4.190:1239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力时尚
+http://115.60.241.249:2000/rtp/225.1.4.205:1253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱综艺
+http://115.60.241.249:2000/rtp/225.1.4.204:1252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱体育
+http://115.60.241.249:2000/rtp/225.1.4.5:1034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱电影
+http://115.60.241.249:2000/rtp/225.1.4.6:1035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱大剧
+http://115.60.241.249:2000/rtp/225.1.4.8:1037
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学频道
+http://115.60.241.249:2000/rtp/225.1.4.196:1311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南都市频道
+http://115.60.241.249:2000/rtp/225.1.4.52:1081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南民生频道
+http://115.60.241.249:2000/rtp/225.1.4.53:1082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南法治频道
+http://115.60.241.249:2000/rtp/225.1.4.54:1083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南电视剧频道
+http://115.60.241.249:2000/rtp/225.1.4.55:1084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南新闻频道
+http://115.60.241.249:2000/rtp/225.1.4.56:1085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南欢腾购物
+http://115.60.241.249:2000/rtp/225.1.4.57:1086
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南公共频道
+http://115.60.241.249:2000/rtp/225.1.4.58:1087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南乡村频道
+http://115.60.241.249:2000/rtp/225.1.4.120:1149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河南国际频道
+http://115.60.241.249:2000/rtp/225.1.4.102:1131
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",河南文物宝库
+http://115.60.241.249:2000/rtp/225.1.4.100:1129
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",河南梨园频道
+http://115.60.241.249:2000/rtp/225.1.4.99:1128
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",河南武术世界
+http://115.60.241.249:2000/rtp/225.1.4.101:1130
