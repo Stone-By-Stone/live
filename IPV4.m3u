@@ -207,6 +207,4 @@ http://115.60.241.249:2000/rtp/225.1.4.100:1129
 http://115.60.241.249:2000/rtp/225.1.4.99:1128
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="河南",河南武术世界
 http://115.60.241.249:2000/rtp/225.1.4.101:1130
-http://115.60.241.249:2000/rtp/225.1.4.99:1128
-#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",河南武术世界
-http://115.60.241.249:2000/rtp/225.1.4.101:1130
+
