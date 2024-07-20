@@ -183,7 +183,7 @@ http://115.60.241.249:2000/rtp/225.1.4.5:1034
 http://115.60.241.249:2000/rtp/225.1.4.6:1035
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱大剧
 http://115.60.241.249:2000/rtp/225.1.4.8:1037
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学频道
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="未分类",国学频道
 http://115.60.241.249:2000/rtp/225.1.4.196:1311
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/河南都市.png" group-title="河南",河南都市频道
 http://115.60.241.249:2000/rtp/225.1.4.52:1081
